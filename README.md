@@ -18,7 +18,8 @@
 
 ## Tech Stack
 
-**Front-end:** HTML, CSS & JavaScript
+**Front-end:** HTML, CSS & JavaScript <br>
+**IDE:** VSCode
 
 ## How to Use
 1. Clone my repository or download the zip file in your local machine.
