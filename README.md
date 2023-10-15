@@ -1,6 +1,6 @@
 # Unit Converter
 
-## Deployed Website Link -> https://snehilsharma31.github.io/CodeClause-Unit-Converter/
+## Deployed Website Link -> https://snehilsharma31.github.io/Unit-Converter/
 
 ◉ This Repo showcases my project, that I've created for my Internship task at CodeClause.
 
